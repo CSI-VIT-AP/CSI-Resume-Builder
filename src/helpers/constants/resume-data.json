@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kartik Kumar",
     "label": "React JS Developer",
-    "image": "https://media.licdn.com/dms/image/D5603AQFSPZFb_OogxQ/profile-displayphoto-shrink_800_800/0/1665811073129?e=1700092800&v=beta&t=uCNNpuenPyBCC4gzmmneGfK25RK5vkwDIuN1lYRDKNo",
+    "image": "/public/default_image.jpg",
     "email": "gtgkartik@email.com",
     "phone": "+91 9898989898",
     "url": "www.e-resume.vercel.app",
